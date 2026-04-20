@@ -1,56 +1,57 @@
-# Elite Oracle Prompt Examples
+# Elite Oracle V2 Prompt Examples
 
 ## English
 
 ```text
-Use Elite Oracle to write an executive brief on whether AI agents will disrupt the enterprise SaaS market.
+$elite-oracle
+Run a deep signal map on vertical AI agents. Search official sources, VC essays, GitHub, Reddit, X, and analyst coverage. Identify the hidden bottleneck and the leading indicators.
 ```
 
 ```text
-Use Elite Oracle to create a VC thesis for vertical AI agents in healthcare operations. Include wedge, distribution, defensibility, and failure modes.
+$elite-oracle
+Create a VC thesis for AI-native financial operations software. Include why now, wedge, distribution path, defensibility, failure modes, and experiments.
 ```
 
 ```text
-Use Elite Oracle to build an analyst landscape for AI coding tools. Segment the market, map adoption triggers, and identify leading indicators.
+$elite-oracle
+Build an analyst landscape for AI coding tools. Segment the market, map adoption triggers, identify control points, and show what would change the thesis.
 ```
 
 ```text
-Use Elite Oracle to write an investment memo on data center power constraints as a bottleneck for AI growth.
+$elite-oracle
+Write an investment memo on data center power constraints as the bottleneck for AI growth. Include capital flows, margin implications, policy risk, and downside scenario.
 ```
 
-## 日本語
+## Japanese
 
 ```text
-エリートオラクルで、AIエージェントがエンタープライズSaaS市場をどう変えるか、経営者向けブリーフとして分析して。
-```
-
-```text
-エリートオラクルで、ヘルスケア業務向けの垂直AIエージェントについてVC投資仮説を作って。ウェッジ、分配経路、防御力、失敗要因も入れて。
+$elite-oracle
+日本のAIエージェント市場について、公式情報、VC記事、GitHub、X、Reddit、信頼できるメディアを横断してディープリサーチし、隠れたボトルネックと制御点を整理して。
 ```
 
 ```text
-エリートオラクルで、AIコーディングツール市場のアナリスト・ランドスケープを作って。市場分類、導入トリガー、先行指標も整理して。
+$elite-oracle
+垂直型AIエージェントがエンタープライズSaaSを再編するか、経営者向けのExecutive Briefとしてまとめて。反証、リスク、次に見るべき指標も含めて。
 ```
 
 ```text
-エリートオラクルで、AI成長の制約としてのデータセンター電力問題について投資メモを書いて。
+$elite-oracle
+AIコーディングツール市場のAnalyst Landscapeを作って。市場分類、導入トリガー、主要プレイヤー、失敗シグナルを整理して。
 ```
 
-## 中文
+## Chinese
 
 ```text
-请使用 Elite Oracle 分析 AI Agent 是否会重塑企业 SaaS 市场，并输出一份管理层简报。
-```
-
-```text
-请使用 Elite Oracle 为医疗运营领域的垂直 AI Agent 写一份 VC thesis，包括 wedge、分发路径、防御力和失败模式。
+$elite-oracle
+请对垂直 AI Agent 市场做一次 Deep Signal Map。横跨官方资料、VC 文章、GitHub、X、Reddit 和可信媒体，找出隐藏瓶颈和领先指标。
 ```
 
 ```text
-请使用 Elite Oracle 为 AI 编程工具市场制作一份 analyst landscape，包括市场分类、采用触发因素和领先指标。
+$elite-oracle
+请为 AI-native 财务运营软件写一份 VC Thesis，包括 why now、wedge、分发路径、防御性、失败模式和验证实验。
 ```
 
 ```text
-请使用 Elite Oracle 写一份投资备忘录，分析数据中心电力约束是否正在成为 AI 增长的关键瓶颈。
+$elite-oracle
+请构建 AI 编程工具市场的 Analyst Landscape，包括市场细分、采用触发因素、控制点和可能推翻判断的信号。
 ```
-

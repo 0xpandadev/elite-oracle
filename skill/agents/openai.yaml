@@ -1,0 +1,4 @@
+interface:
+  display_name: "Elite Oracle"
+  short_description: "Deep strategy, VC, and market synthesis"
+  default_prompt: "Use $elite-oracle to run deep multilingual research, aggregate signals, and produce an executive-grade strategy or VC analysis."
